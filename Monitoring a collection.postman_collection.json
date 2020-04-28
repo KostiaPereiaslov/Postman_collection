@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Postman (edited in git) Echo GET",
+			"name": "Postman (edited in git one) Echo GET",
 			"request": {
 				"method": "GET",
 				"header": [],
