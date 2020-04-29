@@ -377,7 +377,7 @@
 				"header": [
 					{
 						"key": "X-Api-Key",
-						"value": "PMAK-5e95c1fc322be50037695bc7-446953d11ed365dd542fc17dd2102fdc98",
+						"value": "e50037695bc7-446953d11ed36",
 						"type": "text"
 					}
 				],
@@ -395,7 +395,7 @@
 					"query": [
 						{
 							"key": "apiKey",
-							"value": "PMAK-5e95c1fc322be50037695bc7-446953d11ed365dd542fc17dd2102fdc98",
+							"value": "e50037695bc7-446953d11",
 							"disabled": true
 						}
 					]
